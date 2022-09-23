@@ -1,0 +1,15 @@
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/bin/Debug/net6.0/Sem6Task43 HW
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/bin/Debug/net6.0/Sem6Task43 HW.deps.json
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/bin/Debug/net6.0/Sem6Task43 HW.runtimeconfig.json
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/bin/Debug/net6.0/Sem6Task43 HW.dll
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/bin/Debug/net6.0/Sem6Task43 HW.pdb
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/Sem6Task43 HW.csproj.AssemblyReference.cache
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/Sem6Task43 HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/Sem6Task43 HW.AssemblyInfoInputs.cache
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/Sem6Task43 HW.AssemblyInfo.cs
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/Sem6Task43 HW.csproj.CoreCompileInputs.cache
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/Sem6Task43 HW.dll
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/refint/Sem6Task43 HW.dll
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/Sem6Task43 HW.pdb
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/Sem6Task43 HW.genruntimeconfig.cache
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task43 HW/obj/Debug/net6.0/ref/Sem6Task43 HW.dll
