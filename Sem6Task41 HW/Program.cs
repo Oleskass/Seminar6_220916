@@ -29,7 +29,7 @@ int Count(int numberM)
     int res = 0;
     for (int i = 0; i < numberM; i++)
     {
-        int num = ReadData("Введите число: ");
+        int num = ReadData("Введите число: "); //изнутри метода обращаемся к методу, который находится снаружи
         if (num > 0) res++;
     }
     return res;
