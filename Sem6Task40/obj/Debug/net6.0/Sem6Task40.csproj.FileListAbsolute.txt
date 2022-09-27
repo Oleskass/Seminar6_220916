@@ -1,0 +1,15 @@
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/bin/Debug/net6.0/Sem6Task40
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/bin/Debug/net6.0/Sem6Task40.deps.json
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/bin/Debug/net6.0/Sem6Task40.runtimeconfig.json
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/bin/Debug/net6.0/Sem6Task40.dll
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/bin/Debug/net6.0/Sem6Task40.pdb
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/Sem6Task40.csproj.AssemblyReference.cache
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/Sem6Task40.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/Sem6Task40.AssemblyInfoInputs.cache
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/Sem6Task40.AssemblyInfo.cs
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/Sem6Task40.csproj.CoreCompileInputs.cache
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/Sem6Task40.dll
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/refint/Sem6Task40.dll
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/Sem6Task40.pdb
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/Sem6Task40.genruntimeconfig.cache
+/Users/oleskass/Documents/CSharp/Seminar6_220916/Sem6Task40/obj/Debug/net6.0/ref/Sem6Task40.dll
